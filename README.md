@@ -12,7 +12,7 @@ Once you've created the project in the Supabase dashboard, continue with the nex
 
 ### Running locally
 
-1. Clone this project
+1. Clone this project.
 
 ```sh
 git clone https://github.com/dabit3/supabase-nextjs-auth
